@@ -27,6 +27,9 @@ int main()
 	
 	int code=int(letter)-64;
 	int input[5]; //up 1 down 2 left 3 right 4
+	code=code+serial+1;
+	if(code>26)
+		code=code-26;
 	for(int i=1;i<=5;i++)
 	{
 		if(code>26)
