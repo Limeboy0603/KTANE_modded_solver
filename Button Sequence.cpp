@@ -9,16 +9,16 @@ int main()
 	cout << "If there are any bugs, contact Limeboy#0356 on discord" << endl;
 	cout << endl;
 	
-	int red;
-	int blue;
-	int yellow;
-	int white;
+	int red=0;
+	int blue=0;
+	int yellow=0;
+	int white=0;
 	char colour;
 	char letter;
 	int side;
 	cout << "Enter the information of the button in the following order: (R/Y/B/W) Letter (No. of sides of the shape)" << endl;
 	
-	cout << "Hold list: " << endl;
+	cout << "If you need to hold the button, hold the button, read the color of the LED and release when the countdown timer has the corisonnding number: " << endl;
 	cout << "Blue: 2" << endl;
 	cout << "White: 7" << endl;
 	cout << "Yellow: 3" << endl;
