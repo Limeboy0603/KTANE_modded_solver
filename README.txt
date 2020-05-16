@@ -3,6 +3,8 @@ Please note that all programs here are console programs. These programs only pro
 If you would like to make a collab, or if there are any mistake/bugs/errors, contact me on discord Limeboy0603#0356
 Please note that if you do not follow the instructions in the program, it will not work properly
 
+WARNING: DO NOT USE ANY SOLVER ON TP, CHEATING IS A DUMB THING TO DO AND IT WILL GET YOU A NO POINT ROLE.
+
 Currently avaliable:
 Simon Scrambles
 Wire Placement
